@@ -1,0 +1,53 @@
+body{
+	background-image:url('pic.jpg');
+	font-size:14px;
+	
+}
+.navbar-default{
+	background-color:#3c301c !important;
+}
+.navbar-default .navbar-nav>.active>a{
+	background-color:#43847d!important;
+}
+.navbar-default .navbar-brand {
+    color: #ad956d !important;
+}
+.navbar-default .navbar-nav>li>a:hover {
+    color: white !important;
+}
+	
+h1{
+	color:white !important;
+	font-weight:800 !important;
+}
+p{
+	color:#afbf8f;
+	font-style:italic;
+	font-size:medium;
+}
+.about p{
+	color:#afbf8f !important;
+	margin:30px 10px 10px 10px;
+}
+.form-group{
+	margin:30px 10px 10px 10px;
+	color: #82f1ec !important;
+	font-size:large;
+}
+
+.form-control{
+	width:50% !important;
+}
+.checkbox{
+	color:white;
+}
+.checkbox, .radio,.btn-default{
+	margin-left:13px;
+}
+.contact{
+	margin-right:0px !important;
+	margin-left:405px !important;
+	margin-top:100px !important;
+	padding-top: 70px;
+	position: static;
+}
